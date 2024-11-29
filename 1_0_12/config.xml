@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<AppVersion>0.0</AppVersion>
+	<ResVersion>1.0.12</ResVersion>
+	<UpdateResVersion>0.0</UpdateResVersion>
+	<Section>1.0</Section>
+	<ResSize>29532922576</ResSize>
+	<Hash>679107</Hash>
+	<BaseVerson appVersion="0.0"/>
+	<Extra>
+		<speed>50</speed>
+		<maxThreadCnt>5</maxThreadCnt>
+		<minThreadCnt>1</minThreadCnt>
+		<tagTaskThreadCnt>2</tagTaskThreadCnt>
+		<diffHash></diffHash>
+		<listHash></listHash>
+		<playAssetsTimeout>20</playAssetsTimeout>
+		<Devices>
+			<d name="b014b7d94b33ea5181da4e54ca40730d_cc28aa77e917"/>
+			<d name="9bc90aad0db6674c861c08114997f7dc_cc28aa77e917"/>
+			<d name="ec95b2a75117530c2e4ba7fa19b9a517_08bfb842b02b"/>
+			<d name="02849ff314cb7b420a05841e76557f5b_58112293060d"/>
+		</Devices>
+		<Compressed>1</Compressed>
+		<Encrypt>1</Encrypt>
+	</Extra>
+</config>
