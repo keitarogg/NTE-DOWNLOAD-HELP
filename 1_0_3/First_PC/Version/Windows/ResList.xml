@@ -1,0 +1,418 @@
+<?xml version="1.0" ?>
+<ResList version="1.0.3" tag="">
+	<Res filename="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll" filesize="153114624" md5="3a1cb9e5814c6a22261824396f79b55d"/>
+	<Res filename="Client/WindowsNoEditor/Engine/Binaries/Win64/CrashReportClient.pdb" filesize="175280128" md5="06d03dd912948df4026058174ab83104"/>
+	<Res filename="Client/WindowsNoEditor/HT/Binaries/Win64/HTGame.exe" filesize="183736832" md5="f9cbeb1265a47ddb61d4b99b8aca4408"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C03.mp4" filesize="55204705" md5="f455a7ce6aa6e96691778f205ef8894d"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_a.mp4" filesize="268148621" md5="ad81122f40945a431d0fd84c54ab7c3c"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_b_1106.mp4" filesize="280506552" md5="cdb3da4b496b25c4119769ef28177ec9"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_01.mp4" filesize="281430826" md5="1fa5966365e29ef2c2693029f31be2d3"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_03.mp4" filesize="167636875" md5="89c6094d486feb4371f7850e40f16595"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_04.mp4" filesize="140483720" md5="da47aecbb2cd59c43f638dd50d5a44f5"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_06.mp4" filesize="307600575" md5="0a74d17178a16f25ba657ad65de243e3"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_07.mp4" filesize="162563940" md5="5d40a8100d33f16948ef3112eade0632"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_09.mp4" filesize="313016110" md5="b79b3154474b18b372d610ac06292630"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_11.mp4" filesize="57028566" md5="59db0e8acf618fc6c8928f4f0d195d5a"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/q110137.mp4" filesize="96407746" md5="c31a004d62bc5c5eccccc72f201f92c6"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/SampleVideo.usm" filesize="81280576" md5="8a4b79707c1406458ee2d2fc0257c287"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_Car08.mp4" filesize="63299736" md5="4c63708a1d330d8fbd4be252b25970f7"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video04.mp4" filesize="79649416" md5="d7e956f098a535a8a74978b6fc68b113"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Paks/pakchunk0-Windows.pak" filesize="3285079750" md5="cc7b1604b740b0970394c23917df3139" blockSize="7">
+		<Block index="0" start="0" size="536870912" md5="f72588146f238007807ee9597256921b"/>
+		<Block index="1" start="536870912" size="536870912" md5="14585cd5b2579072223b71b84343ced9"/>
+		<Block index="2" start="1073741824" size="536870912" md5="c688330f2cc33d8ea094a7e254ab5842"/>
+		<Block index="3" start="1610612736" size="536870912" md5="552503d7f435d6166a1571ed21f03169"/>
+		<Block index="4" start="2147483648" size="536870912" md5="fead0a1c77d3b443c7f771406a08ab99"/>
+		<Block index="5" start="2684354560" size="536870912" md5="1ba9e9754c0849021e1396bc48c0b72d"/>
+		<Block index="6" start="3221225472" size="63854278" md5="dee719d8ebbf7ef5a7a5ef4a4461df42"/>
+	</Res>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Paks/pakchunk1-Windows.pak" filesize="12343227402" md5="a5ca55e01089b785141a3802ea11b80b" blockSize="23">
+		<Block index="0" start="0" size="536870912" md5="11c8ccb7538fb6c14d12a8d2282d416e"/>
+		<Block index="1" start="536870912" size="536870912" md5="2aaad143098a77dbba5b538c84d7af51"/>
+		<Block index="2" start="1073741824" size="536870912" md5="12006140d6907d60b0172e9c783f1412"/>
+		<Block index="3" start="1610612736" size="536870912" md5="ecbd69d0c529110b6751020cde4fef0d"/>
+		<Block index="4" start="2147483648" size="536870912" md5="0c40bf723bfd078a52ac97bea6629323"/>
+		<Block index="5" start="2684354560" size="536870912" md5="b236a2fa3acfc4a4ace37bebf3167641"/>
+		<Block index="6" start="3221225472" size="536870912" md5="6444981f6d2812cff30fc4df46cd48f6"/>
+		<Block index="7" start="3758096384" size="536870912" md5="7f90c2ca19091748470d74628c40ef19"/>
+		<Block index="8" start="4294967296" size="536870912" md5="e7fd0d1e7eeca16b03176725bce8abd5"/>
+		<Block index="9" start="4831838208" size="536870912" md5="ca68899ae2f80a2632a0657ef69a852b"/>
+		<Block index="10" start="5368709120" size="536870912" md5="92db52891f93b615bc52f8fd2bdb65f2"/>
+		<Block index="11" start="5905580032" size="536870912" md5="5b130be4434dd946a026645fd785bc7e"/>
+		<Block index="12" start="6442450944" size="536870912" md5="48f6198fe96dc9f80dd4931c6f59bb1d"/>
+		<Block index="13" start="6979321856" size="536870912" md5="03f63668766868acb1127400f3a04248"/>
+		<Block index="14" start="7516192768" size="536870912" md5="88f96c0098906185e538c4320e6a58af"/>
+		<Block index="15" start="8053063680" size="536870912" md5="fdd9430348be98944c537122690f3308"/>
+		<Block index="16" start="8589934592" size="536870912" md5="17cf60342614293d8a1e1534dc395a97"/>
+		<Block index="17" start="9126805504" size="536870912" md5="5ac11e4b8dad3ce6945214ea2acca2c1"/>
+		<Block index="18" start="9663676416" size="536870912" md5="fd006c739aa6c010aab11cb1fa1c04fb"/>
+		<Block index="19" start="10200547328" size="536870912" md5="f4cbfad70b801f769c16aa02ab98de54"/>
+		<Block index="20" start="10737418240" size="536870912" md5="1149e251cba5b7769e018dfbd9a7ff9a"/>
+		<Block index="21" start="11274289152" size="536870912" md5="b86583d824a29d88eef84c85e2aa9bdb"/>
+		<Block index="22" start="11811160064" size="532067338" md5="d7a511681d623ba351c55b57b5772e77"/>
+	</Res>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Paks/pakchunk2-Windows.pak" filesize="337715469" md5="41508654c81b25868a7a22c93cddebe4"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Paks/pakchunk3-Windows.pak" filesize="645866954" md5="c79ae86802addd72476a3cfb34776e58" blockSize="2">
+		<Block index="0" start="0" size="536870912" md5="a7b7694281791d3604e950bf9eddf483"/>
+		<Block index="1" start="536870912" size="108996042" md5="61d8792fa09a54e4f58044f02a68de66"/>
+	</Res>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Paks/pakchunk4-Windows.pak" filesize="386581108" md5="1eb2ae293e3bf3c8b4f84b209fd321a4"/>
+	<Package>
+		<Pak md5="5e6e9da13eadc9b8752ef5667684457e" filesize="520694837">
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_07.srt" start="51812" offset="51959" size="142" md5="f7d0a9fdae473f237b7a6744e1c8c3bd"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/q110137.srt" start="52101" offset="52243" size="189" md5="59d6a26bd02a356e8f036055ad35c30e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Content/Slate/Cursor/invisible.cur" start="52432" offset="52573" size="326" md5="2eada1ffcee14930f2c53a4d31b95c91"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_04.srt" start="52899" offset="53046" size="576" md5="7108586a2b73e4998606ce450e333b10"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_03.srt" start="53622" offset="53769" size="615" md5="9f51664dbfc5a9d19be332cbab3d8c0b"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Content/SlateDebug/Fonts/LastResort.tps" start="54384" offset="54530" size="916" md5="f3fa22ad0b723e24a7f8e731a5a4a0e1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_01.srt" start="55446" offset="55593" size="1035" md5="ef596d6223af77c4e85e9e94e6385445"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_09.srt" start="56628" offset="56775" size="1047" md5="efa50a342b67457f830b6ad21375ab62"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_10.srt" start="57822" offset="57969" size="1294" md5="697560214607c325814ace126403560c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_06.srt" start="59263" offset="59410" size="1431" md5="b0fc45e4e09a6519778ae677534fbe28"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_system-mt-x64.dll" start="60841" offset="60982" size="9728" md5="260d0234ab782edb00137be04c2be705"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_atomic-mt-x64.dll" start="70710" offset="70851" size="17408" md5="799877fdabb7da8842bfcf732a2e6352"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Paks/pakchunk2-Windows.sig" start="88259" offset="88396" size="21144" md5="0e8b5d60d5f2d6972a752aeb9c000506"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll" start="109540" offset="109691" size="22112" md5="575eba56aa4c2e409d643f719cd1dbba"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll" start="131803" offset="131958" size="22112" md5="575eba56aa4c2e409d643f719cd1dbba"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll" start="154070" offset="154218" size="22120" md5="76455596ccdd9b075d140fd82ae05790"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll" start="176338" offset="176492" size="22120" md5="b83a1737d839d6106bb92d7d4b3dbed4"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll" start="198612" offset="198767" size="22120" md5="859c13dfb783115ed36eb95037b7241e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll" start="220887" offset="221036" size="22120" md5="ab1a23bf00ace7433c859205d518fa5c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll" start="243156" offset="243309" size="22120" md5="ef40498ce0b6cf020d9ea8ed88992584"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll" start="265429" offset="265581" size="22120" md5="dace0193b6820ed7812f7346b9382c05"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll" start="287701" offset="287853" size="22120" md5="4649d1ad31dd375bfaea35c9423f1d96"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll" start="309973" offset="310132" size="22120" md5="6362e38d6c8138711da8f3be9bcc72cd"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll" start="332252" offset="332411" size="22120" md5="953139610362f102b41b125ea7208070"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll" start="354531" offset="354687" size="22120" md5="26dd73913f6487700025e760df6402ee"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll" start="376807" offset="376956" size="22120" md5="855bea02e0a624407c36b109b841db59"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll" start="399076" offset="399225" size="22120" md5="75c8a3c1dfe2096f1a2c6ba51de7196f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll" start="421345" offset="421498" size="22120" md5="1754ecb52a0c9fb6f11c43476975be9e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll" start="443618" offset="443770" size="22120" md5="76455596ccdd9b075d140fd82ae05790"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll" start="465890" offset="466048" size="22120" md5="b83a1737d839d6106bb92d7d4b3dbed4"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll" start="488168" offset="488327" size="22120" md5="859c13dfb783115ed36eb95037b7241e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll" start="510447" offset="510600" size="22120" md5="ab1a23bf00ace7433c859205d518fa5c"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll" start="532720" offset="532877" size="22120" md5="ef40498ce0b6cf020d9ea8ed88992584"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll" start="554997" offset="555153" size="22120" md5="dace0193b6820ed7812f7346b9382c05"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll" start="577273" offset="577429" size="22120" md5="4649d1ad31dd375bfaea35c9423f1d96"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll" start="599549" offset="599712" size="22120" md5="6362e38d6c8138711da8f3be9bcc72cd"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll" start="621832" offset="621995" size="22120" md5="953139610362f102b41b125ea7208070"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll" start="644115" offset="644275" size="22120" md5="26dd73913f6487700025e760df6402ee"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll" start="666395" offset="666548" size="22120" md5="855bea02e0a624407c36b109b841db59"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll" start="688668" offset="688821" size="22120" md5="75c8a3c1dfe2096f1a2c6ba51de7196f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll" start="710941" offset="711098" size="22120" md5="1754ecb52a0c9fb6f11c43476975be9e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll" start="733218" offset="733369" size="22136" md5="c4101780e1a10227eadd8669c42601fa"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll" start="755505" offset="755656" size="22136" md5="4c64207eac5b781b2f28d3c98d86ddfb"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll" start="777792" offset="777942" size="22136" md5="2ca6aecd962341ef2565ddc8fd5bc127"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll" start="800078" offset="800226" size="22136" md5="d50203f25306427ccc9935ec45431b95"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll" start="822362" offset="822511" size="22136" md5="ed447c74d9047cbfcc66878b063d31be"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll" start="844647" offset="844797" size="22136" md5="35f6657e323c4e5ac56e7697ea3cc54b"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll" start="866933" offset="867083" size="22136" md5="d6dad6b6adb40eafdb89da01acf6742b"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll" start="889219" offset="889374" size="22136" md5="251d9a3f3ec2e5a8997ce8d7450e443f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll" start="911510" offset="911673" size="22136" md5="162689d6edafcb3eb00fb50d01ee5287"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll" start="933809" offset="933963" size="22136" md5="e6afcee6449426ec7aade8946d995f00"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll" start="956099" offset="956250" size="22136" md5="e80ab3c9dfd2574944f7e823b99d9ca3"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll" start="978386" offset="978543" size="22136" md5="7f629d273ac801725d19df76990a68df"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll" start="1000679" offset="1000837" size="22136" md5="9bfa838217a723d82f2139bd9fa92169"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll" start="1022973" offset="1023122" size="22136" md5="c5de5376fe71ca643e633505209da913"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll" start="1045258" offset="1045409" size="22136" md5="5f0f6443699fb844cd2a6684ce279b6d"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-fibers-l1-1-0.dll" start="1067545" offset="1067696" size="22136" md5="b4c1a9ef2cf923a81969faf2f74e5c18"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll" start="1089832" offset="1089990" size="22136" md5="a575281e93dcdc2f95857b7e2b365361"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll" start="1112126" offset="1112276" size="22136" md5="31b55653d51de75f30be2eea85aead0f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-console-l1-2-0.dll" start="1134412" offset="1134564" size="22136" md5="ea89c2fa795992b7cabc1cf64e2d1e1b"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll" start="1156700" offset="1156852" size="22136" md5="8805de8aead10a48193b54f882a7763a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll" start="1178988" offset="1179143" size="22136" md5="c4101780e1a10227eadd8669c42601fa"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll" start="1201279" offset="1201434" size="22136" md5="4c64207eac5b781b2f28d3c98d86ddfb"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll" start="1223570" offset="1223724" size="22136" md5="2ca6aecd962341ef2565ddc8fd5bc127"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll" start="1245860" offset="1246012" size="22136" md5="d50203f25306427ccc9935ec45431b95"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll" start="1268148" offset="1268301" size="22136" md5="ed447c74d9047cbfcc66878b063d31be"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll" start="1290437" offset="1290591" size="22136" md5="35f6657e323c4e5ac56e7697ea3cc54b"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll" start="1312727" offset="1312881" size="22136" md5="d6dad6b6adb40eafdb89da01acf6742b"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll" start="1335017" offset="1335176" size="22136" md5="251d9a3f3ec2e5a8997ce8d7450e443f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll" start="1357312" offset="1357479" size="22136" md5="162689d6edafcb3eb00fb50d01ee5287"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll" start="1379615" offset="1379773" size="22136" md5="e6afcee6449426ec7aade8946d995f00"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll" start="1401909" offset="1402064" size="22136" md5="e80ab3c9dfd2574944f7e823b99d9ca3"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll" start="1424200" offset="1424361" size="22136" md5="7f629d273ac801725d19df76990a68df"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll" start="1446497" offset="1446659" size="22136" md5="9bfa838217a723d82f2139bd9fa92169"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll" start="1468795" offset="1468948" size="22136" md5="c5de5376fe71ca643e633505209da913"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll" start="1491084" offset="1491239" size="22136" md5="5f0f6443699fb844cd2a6684ce279b6d"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-fibers-l1-1-0.dll" start="1513375" offset="1513530" size="22136" md5="b4c1a9ef2cf923a81969faf2f74e5c18"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll" start="1535666" offset="1535828" size="22136" md5="a575281e93dcdc2f95857b7e2b365361"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll" start="1557964" offset="1558118" size="22136" md5="31b55653d51de75f30be2eea85aead0f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-console-l1-2-0.dll" start="1580254" offset="1580410" size="22136" md5="ea89c2fa795992b7cabc1cf64e2d1e1b"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll" start="1602546" offset="1602702" size="22136" md5="8805de8aead10a48193b54f882a7763a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Paks/pakchunk4-Windows.sig" start="1624838" offset="1624975" size="24124" md5="441fb87ca55076c313429a49766af03a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/X3DAudio1_7.dll" start="1649099" offset="1649232" size="24920" md5="b4ff2a39685c1a6d43f0e56eb350af3a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/X3DAudio1_7.dll" start="1674152" offset="1674289" size="24920" md5="b4ff2a39685c1a6d43f0e56eb350af3a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll" start="1699209" offset="1699359" size="26216" md5="98b05e06c6ab62d854307a18e38626c0"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll" start="1725575" offset="1725724" size="26216" md5="c9103f6861fa14345cfb763189292cb4"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll" start="1751940" offset="1752091" size="26216" md5="bb6023337b1f327d65bd07c13ced515e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll" start="1778307" offset="1778458" size="26216" md5="48ba542c275d6ace740b4aa548157473"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll" start="1804674" offset="1804828" size="26216" md5="98b05e06c6ab62d854307a18e38626c0"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll" start="1831044" offset="1831197" size="26216" md5="c9103f6861fa14345cfb763189292cb4"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll" start="1857413" offset="1857568" size="26216" md5="bb6023337b1f327d65bd07c13ced515e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll" start="1883784" offset="1883939" size="26216" md5="48ba542c275d6ace740b4aa548157473"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll" start="1910155" offset="1910304" size="26232" md5="8142799f92638d67267278d2fcab85e0"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll" start="1936536" offset="1936689" size="26232" md5="8142799f92638d67267278d2fcab85e0"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll" start="1962921" offset="1963074" size="30328" md5="a6c2eecc89b696cb2e7aa52c08f3fecb"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll" start="1993402" offset="1993550" size="30328" md5="4c344ba3ea55d42a089abee91273bae3"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll" start="2023878" offset="2024035" size="30328" md5="a6c2eecc89b696cb2e7aa52c08f3fecb"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll" start="2054363" offset="2054515" size="30328" md5="4c344ba3ea55d42a089abee91273bae3"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/msvcp140_codecvt_ids.dll" start="2084843" offset="2084985" size="31856" md5="165308ee66d0b8f11ca20f3bcd410ea9"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/msvcp140_codecvt_ids.dll" start="2116841" offset="2116987" size="31856" md5="165308ee66d0b8f11ca20f3bcd410ea9"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_chrono-mt-x64.dll" start="2148843" offset="2148984" size="35328" md5="caa8b28148b7e2fcf6073c0244d9809c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/msvcp140_1.dll" start="2184312" offset="2184444" size="35920" md5="7b0a25eee764d8747f02cb3ed980f07a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/msvcp140_1.dll" start="2220364" offset="2220500" size="35920" md5="7b0a25eee764d8747f02cb3ed980f07a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll" start="2256420" offset="2256587" size="37888" md5="f453241dec90dbfa5b7322cc4a67a143"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/vcruntime140_threads.dll" start="2294475" offset="2294617" size="38512" md5="5f533a0a43600153ecde78abaa7d614e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/vcruntime140_threads.dll" start="2333129" offset="2333275" size="38512" md5="5f533a0a43600153ecde78abaa7d614e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Paks/pakchunk3-Windows.sig" start="2371787" offset="2371924" size="39952" md5="1aa42d4a23a448cd06da39046d5caf9a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/snapshot_blob.bin" start="2411876" offset="2412031" size="48390" md5="86022b054628e3f079c0c8db40d0fe2f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_iostreams-mt-x64.dll" start="2460421" offset="2460565" size="48640" md5="5f72f845162f07dd3476037e39ac31e6"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll" start="2509205" offset="2509362" size="49152" md5="cd1f16736ccc5dd8c8ce8525957f4cfb"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/vcruntime140_1.dll" start="2558514" offset="2558650" size="49744" md5="eb49c1d33b41eb49dfed58aafa9b9a8f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/vcruntime140_1.dll" start="2608394" offset="2608534" size="49744" md5="eb49c1d33b41eb49dfed58aafa9b9a8f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/appstate.dll" start="2658278" offset="2658408" size="50176" md5="9e45fa6382a17ad17457f0bcfa3e8d87"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/msvcp140_atomic_wait.dll" start="2708584" offset="2708726" size="50280" md5="6722344b74084d0af629283060716bae"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/msvcp140_atomic_wait.dll" start="2759006" offset="2759152" size="50280" md5="6722344b74084d0af629283060716bae"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/webbrowser.dll" start="2809432" offset="2809564" size="51200" md5="9d2a941494d1b0eaedbc177318063cda"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/pspay.dll" start="2860764" offset="2860891" size="51712" md5="2e2fbb995516fd4af3977bc9620f842e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/tbbmalloc.dll" start="2912603" offset="2912734" size="55296" md5="26a797b5812c7e06883fa5ee4de921aa"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/tbbmalloc.dll" start="2968030" offset="2968165" size="55296" md5="26a797b5812c7e06883fa5ee4de921aa"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/pfa.dll" start="3023461" offset="3023586" size="60928" md5="4d16286d974944c3294310db6d37b752"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/webapi.dll" start="3084514" offset="3084642" size="69632" md5="2b4d1fd4610a11130532f6f8bf83feed"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_thread-mt-x64.dll" start="3154274" offset="3154415" size="74240" md5="e54b8fca16dfd8352068df4757d4c354"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll" start="3228655" offset="3228806" size="75368" md5="d93d91324a28653d8580420f347190bb"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll" start="3304174" offset="3304329" size="75368" md5="d93d91324a28653d8580420f347190bb"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/XAPOFX1_5.dll" start="3379697" offset="3379828" size="77656" md5="e9739ae8b2fa28dcd6f2ef5525da8827"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/XAPOFX1_5.dll" start="3457484" offset="3457619" size="77656" md5="e9739ae8b2fa28dcd6f2ef5525da8827"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/xinput1_3.dll" start="3535275" offset="3535406" size="107368" md5="bfb3091b167550ec6e6454813d3db244"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/xinput1_3.dll" start="3642774" offset="3642909" size="107368" md5="bfb3091b167550ec6e6454813d3db244"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/vcruntime140.dll" start="3750277" offset="3750411" size="119376" md5="e9b690fbe5c4b96871214379659dd928"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/vcruntime140.dll" start="3869787" offset="3869925" size="119376" md5="e9b690fbe5c4b96871214379659dd928"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkSilenceGenerator.dll" start="3989301" offset="3989473" size="123712" md5="5c1e6d010ab1ddb418799addb901751c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/Ak3DAudioBedMixer.dll" start="4113185" offset="4113356" size="127296" md5="9a6e0c74f2ae22eaa24c651a739212a7"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/WPGlobalSDK_64.dll" start="4240652" offset="4240788" size="127488" md5="0f504f041edc5d00a5d12e3729ef95f6"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/apithrottle.dll" start="4368276" offset="4368409" size="128512" md5="3a281c75f647ec45d0c7f6951a376ed4"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/WPOneSDK_64.dll" start="4496921" offset="4497054" size="128512" md5="14057bfd9cd977e9c3fdb179d49646f8"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkGain.dll" start="4625566" offset="4625726" size="131904" md5="d4f7a21c6250d1460cbf80de09bff882"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkSineTone.dll" start="4757630" offset="4757794" size="132416" md5="edfb9ffe327e94499dd306779e9384a2"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkRecorder.dll" start="4890210" offset="4890374" size="132416" md5="23d8bc5e0423632b71d4522dca6f0537"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkAudioInput.dll" start="5022790" offset="5022956" size="132416" md5="61eae810de93bce96110aba62694dbd3"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkDelay.dll" start="5155372" offset="5155533" size="137024" md5="6ede378e081bb313c810f9d7a1989d67"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkPeakLimiter.dll" start="5292557" offset="5292724" size="140096" md5="8a4a1c97d3c1369c82be139f363ce699"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_filesystem-mt-x64.dll" start="5432820" offset="5432965" size="140288" md5="909cb0dd75f2e7f9296e79662753526c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkExpander.dll" start="5573253" offset="5573417" size="148800" md5="b623dd7dede961effc4a8532e08c1ac5"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkCompressor.dll" start="5722217" offset="5722383" size="148800" md5="42fd6c07b78ae8bf27f44feb7af8591d"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkToneGen.dll" start="5871183" offset="5871346" size="152384" md5="55ebeea77e475e292d3ef7d82a85e103"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkTremolo.dll" start="6023730" offset="6023893" size="156480" md5="c3570213a7fbf9d7554d2294db776c91"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkFlanger.dll" start="6180373" offset="6180536" size="158528" md5="2ba53ae71b98f03daf612bbad9f83b8a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkParametricEQ.dll" start="6339064" offset="6339232" size="160576" md5="52428d8d72f51dfff4551e3417ae1eee"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/v8_context_snapshot.bin" start="6499808" offset="6499969" size="165509" md5="dbca662006c4a767c50614ff65c49ef0"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkPitchShifter.dll" start="6665478" offset="6665646" size="166720" md5="8975737560ae45a03e069c6db820eb2f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/sl.pcl.dll" start="6832366" offset="6832543" size="167896" md5="f903e6d6d1858103d4a4b535a56e0f44"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkGuitarDistortion.dll" start="7000439" offset="7000611" size="171840" md5="1199d42e22807097c563c0bf955d8da2"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkStereoDelay.dll" start="7172451" offset="7172618" size="173376" md5="82b4d6923b567e79d93088eb58c02135"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/sl.reflex.dll" start="7345994" offset="7346174" size="177120" md5="4f09972810fd031efc1a37c1a2ac18df"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkSynthOne.dll" start="7523294" offset="7523458" size="177472" md5="0d631c1567540af1957dc9d984e622c5"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/sl.deepdvc.dll" start="7700930" offset="7701111" size="186848" md5="c73d564404dd35a8656f73628615d665"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_python311-mt-x64.dll" start="7887959" offset="7888103" size="192512" md5="f65d289f66265f36778d8c64fb5b1b70"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkMatrixReverb.dll" start="8080615" offset="8080783" size="198464" md5="bd028ccc1a2d8bd15da4d9dfb2967fea"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Paks/pakchunk0-Windows.sig" start="8279247" offset="8279384" size="201036" md5="2569341f91617a2a29e68225e0c12601"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/wmz.dll" start="8480420" offset="8480545" size="202240" md5="61299c3dbe01546115a32eda4f033dfc"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkReflect.dll" start="8682785" offset="8682948" size="203072" md5="7c744a586f8c3fed2a4b045ae7228585"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkSoundSeedAir.dll" start="8886020" offset="8886188" size="204608" md5="4c0504b816c2cf9a01cd949c9cf11b18"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/tbb.dll" start="9090796" offset="9090921" size="213504" md5="b3ba3b550f4ad8a23126cf040d396bf6"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/tbb.dll" start="9304425" offset="9304554" size="213504" md5="b3ba3b550f4ad8a23126cf040d396bf6"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkMotion.dll" start="9518058" offset="9518220" size="220992" md5="79c3924be21ea50e64721966b85e0e0f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkConvolutionReverb.dll" start="9739212" offset="9739385" size="233792" md5="bc7574a9ee109c25d91618d0ba37d36d"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_regex-mt-x64.dll" start="9973177" offset="9973317" size="234496" md5="3538715da788b89d0a11090d16638149"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkHarmonizer.dll" start="10207813" offset="10207979" size="236352" md5="95af638636588814e3a742727afb13c5"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/TencentGME.dll" start="10444331" offset="10444495" size="238400" md5="4edd98bb9a31041e1f933b9530c50bfb"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkTimeStretch.dll" start="10682895" offset="10683062" size="244032" md5="4807dec8f5f72dc71bb1a92ed81ee301"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/WPLauncherSDK_64.dll" start="10927094" offset="10927232" size="246784" md5="d4a7818c02155fd920337014b3ba4517"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkRoomVerb.dll" start="11174016" offset="11174180" size="250176" md5="e64933c5bdab758ece86cb47655b6fd5"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-GB.pak" start="11424356" offset="11424521" size="258784" md5="458fd955bb57f4ba8c1b7ece1984aa7c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/CrankcaseAudioREVModelPlayer.dll" start="11683305" offset="11683487" size="258880" md5="0a8068a821faebd132aad535b6388c98"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Content/Renderer/TessellationTable.bin" start="11942367" offset="11942512" size="259568" md5="bc5d66a78840bfaff5bfc362de64afb8"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/MasteringSuite.dll" start="12202080" offset="12202248" size="259904" md5="1360060d56b4a7d8656adb7b674c8989"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-US.pak" start="12462152" offset="12462317" size="262167" md5="90a7c0c53ecda606c48d66eb9621469f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak" start="12724484" offset="12724649" size="263978" md5="83cf11d532ddded908fb8feb6b702b89"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak" start="12988627" offset="12988792" size="265445" md5="2ffbccab500c49a760a23814e5bd366a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/msvcp140_2.dll" start="13254237" offset="13254369" size="268392" md5="aa0148e20d34c10e01a4a9e1bab1d058"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/msvcp140_2.dll" start="13522761" offset="13522897" size="268392" md5="aa0148e20d34c10e01a4a9e1bab1d058"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/id.pak" start="13791289" offset="13791451" size="279996" md5="a7dbd9246cbdae1447753d6326aaa7f3"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/et.pak" start="14071447" offset="14071609" size="282645" md5="a3774afbfa0a780af02bbc8e7d3fff2e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nb.pak" start="14354254" offset="14354416" size="286157" md5="1c6ce46b2b662bced3460e7de1893b43"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sv.pak" start="14640573" offset="14640735" size="287757" md5="b60f4cdcde2712460728c318ecd11f4e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fi.pak" start="14928492" offset="14928654" size="290495" md5="43ba10a1a67769457ac86f0538b56ce9"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ms.pak" start="15219149" offset="15219311" size="292221" md5="c1f5cccd0a9ce79700d8a1f138fee2db"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/tbb12.dll" start="15511532" offset="15511659" size="293376" md5="77eac9db2ccaac1708a3a678254e6725"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/da.pak" start="15805035" offset="15805197" size="293792" md5="dbf67fff020b8f977c6eb83a5ada9ba4"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sw.pak" start="16098989" offset="16099151" size="295655" md5="c2eacfed7055cf089ef4eef0319da36a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nl.pak" start="16394806" offset="16394968" size="295863" md5="77fedb396ef1a078c815bfe2ee70209e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/tr.pak" start="16690831" offset="16690993" size="306063" md5="4d83210379212cbf810d748e70503056"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/it.pak" start="16997056" offset="16997218" size="307951" md5="7e53e5ce0f0ed1c148ddd4bfad667b34"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-BR.pak" start="17305169" offset="17305334" size="308037" md5="b0c6bf050ee8560dceb99f7f941b65b5"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es-419.pak" start="17613371" offset="17613537" size="312442" md5="6a53f36223df445dfe277b1d20a1b77a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-PT.pak" start="17925979" offset="17926144" size="312611" md5="3f92231602c23966a77a8aca67f47c8f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hr.pak" start="18238755" offset="18238917" size="313044" md5="496b0eafb9d70a574bf0ed7ec0981df5"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es.pak" start="18551961" offset="18552123" size="315159" md5="b95524a75d20ae0b552f56ce20e6c6ed"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/de.pak" start="18867282" offset="18867444" size="316037" md5="48b63a9e963bba1fa1114f864eaea3b3"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sl.pak" start="19183481" offset="19183643" size="316275" md5="e230d7ec7fe70fb9437fa0f3e6cb9273"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ca.pak" start="19499918" offset="19500080" size="318594" md5="b5ccbd77605b7cdc145ed67b518da41f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ko.pak" start="19818674" offset="19818836" size="318635" md5="18674de0b16be676410983a14f4f4612"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ro.pak" start="20137471" offset="20137633" size="320345" md5="5060adb00536f7955bde136d42a0e956"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/concrt140.dll" start="20457978" offset="20458109" size="322672" md5="9485d003573e0eaf7952ab23cc82ef7b"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/concrt140.dll" start="20780781" offset="20780916" size="322672" md5="9485d003573e0eaf7952ab23cc82ef7b"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fil.pak" start="21103588" offset="21103751" size="325067" md5="f9cfb40f6bf2bec048a5e528d41ddb3c"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pl.pak" start="21428818" offset="21428980" size="325355" md5="df826bb020ab7f6ab269cc16bf413ea7"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/cs.pak" start="21754335" offset="21754497" size="325971" md5="eb11415a7c49ff67a7eec63945f2ce74"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sk.pak" start="22080468" offset="22080630" size="331329" md5="ecc4fcc7d8ac383fc8b29a2243bc729d"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lv.pak" start="22411959" offset="22412121" size="334614" md5="6f61733994c4e7396f26884edc23e663"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hu.pak" start="22746735" offset="22746897" size="336131" md5="8cbaf4c42722a8dfafc1f163a4e77d55"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lt.pak" start="23083028" offset="23083190" size="337360" md5="6fe4f372d1a88c446ab949520cd73ff4"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fr.pak" start="23420550" offset="23420712" size="343306" md5="f90a48e4af5d40522cf5ba3e114913cd"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/vccorlib140.dll" start="23764018" offset="23764151" size="348784" md5="e3e6aa23df3c78b29b0ee90e2712fc7e"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/vccorlib140.dll" start="24112935" offset="24113072" size="348784" md5="e3e6aa23df3c78b29b0ee90e2712fc7e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/boost_program_options-mt-x64.dll" start="24461856" offset="24462006" size="351232" md5="03d9bef577cdb5c2ac9ae75e60d61477"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak" start="24813238" offset="24813400" size="359978" md5="bdfe79afd9c2eea9db6cb43404efd10f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ja.pak" start="25173378" offset="25173540" size="380325" md5="eea0ce087807d0c1901f0ef463cb6f4e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/global.dll" start="25553865" offset="25553993" size="389632" md5="208efffa8ba32c18570bf37293f6b316"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/he.pak" start="25943625" offset="25943787" size="397651" md5="f9f21c518a726e679c687759564062eb"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/libEGL.dll" start="26341438" offset="26341586" size="403968" md5="d4e407625cc8cd005866905b86cca2a9"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/swiftshader/libEGL.dll" start="26745554" offset="26745724" size="421888" md5="9eada272c5be1659523be7b6c4b65459"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/sl.dlss_g.dll" start="27167612" offset="27167792" size="439264" md5="0ece0f5363a055acc46e013f60ae8d76"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/analysis.dll" start="27607056" offset="27607186" size="447488" md5="4634b7fe3a28141884cc7b04487f3667"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/am.pak" start="28054674" offset="28054836" size="452150" md5="3143227da913e2e17ee1c06515d14999"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fa.pak" start="28506986" offset="28507148" size="455382" md5="c2c0be35cca79c3b083172ba8f6e1bce"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ar.pak" start="28962530" offset="28962692" size="478581" md5="15903ea3a62c0521d4fb26e8c789cb79"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sr.pak" start="29441273" offset="29441435" size="487444" md5="29e6ae8c57f684caee75ce292d8e947f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak" start="29928879" offset="29929041" size="512486" md5="7accb66081b07793b85f49bd98049a26"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ru.pak" start="30441527" offset="30441689" size="513810" md5="9c8edf9d0a330f3d6b50e194b14278f1"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bg.pak" start="30955499" offset="30955661" size="515618" md5="68be7ea62606849b36dc4101db9ff6f5"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/XAudio2_7.dll" start="31471279" offset="31471410" size="518488" md5="4f7513ff4de6303088db28dcbcef372c"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/XAudio2_7.dll" start="31989898" offset="31990033" size="518488" md5="4f7513ff4de6303088db28dcbcef372c"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/sl.interposer.dll" start="32508521" offset="32508705" size="537056" md5="cde1c0408a1a26613d39d89696e10373"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/el.pak" start="33045761" offset="33045923" size="564535" md5="f29eeac9e4fef04805e2e0127775830a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/msvcp140.dll" start="33610458" offset="33610588" size="573008" md5="c3d497b0afef4bd7e09c7559e1c75b05"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/msvcp140.dll" start="34183596" offset="34183730" size="573008" md5="c3d497b0afef4bd7e09c7559e1c75b05"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/th.pak" start="34756738" offset="34756900" size="597955" md5="99c258194c6a2f3725ef1ecdd61633ac"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/avatarface.dll" start="35354855" offset="35354987" size="606720" md5="b2d035d153663ca4cf451764e7bf8f22"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/mr.pak" start="35961707" offset="35961869" size="628384" md5="e37e4584e2f218c4d9cad1502ee55bb6"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/gu.pak" start="36590253" offset="36590415" size="642545" md5="1e29e91f37cab85972bafce24e735dfb"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hi.pak" start="37232960" offset="37233122" size="665934" md5="fdf32f7eb601f4721967e489ffc1a42b"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bn.pak" start="37899056" offset="37899218" size="671277" md5="735713f2ae9a845b1821487a192d1d0f"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/sl.common.dll" start="38570495" offset="38570675" size="676312" md5="7b42f53361cf08687945c5b22924b48a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot02.mp4" start="39246987" offset="39247142" size="686170" md5="6baac4decb34f72cba3e16718305077a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/te.pak" start="39933312" offset="39933474" size="707613" md5="6acbc2e3c0845d52a8af7c9eb8aa29c4"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/kn.pak" start="40641087" offset="40641249" size="746654" md5="e0fcfbe60e84580fa8cec1d1e5b67e59"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Paks/pakchunk1-Windows.sig" start="41387903" offset="41388040" size="753900" md5="fb08fe8536e2788d5a689c03eafde78e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/cos.dll" start="42141940" offset="42142065" size="754176" md5="8240ecb80aa06d6db526a5004c800422"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ta.pak" start="42896241" offset="42896403" size="758488" md5="26737e88032aff83e145283a8a405798"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/chrome_100_percent.pak" start="43654891" offset="43655061" size="780548" md5="5b3d7aaeb81aa3502a57af94866f247d"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ml.pak" start="44435609" offset="44435771" size="782773" md5="d534771dcb24d92c11aeb2524e169297"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/NTE-LOGO.mp4" start="45218544" offset="45218674" size="837345" md5="da64381ecd8d6b4b81d7789a55a79b57"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/one.dll" start="46056019" offset="46056144" size="847360" md5="3f40acd82e3aa309f96d3da16b3f9290"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll" start="46903504" offset="46903672" size="847440" md5="835591acabfb69a6f9dace12711f2243"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Ra.mp4" start="47751112" offset="47751263" size="869596" md5="b452e63fc85c284a59227839fcc6f45c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/HOTTA-LOGO.mp4" start="48620859" offset="48620991" size="900335" md5="118f96a0e94c40d4cd244dbf8dec227b"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/NTE-LOGO_overseaEn.mp4" start="49521326" offset="49521466" size="968264" md5="c59ac702fe0b9773f6b7cdb7557f84f1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video06.mp4" start="50489730" offset="50489871" size="976833" md5="143c2a22b8f2ed0b375a750930da1aba"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/bearssl.dll" start="51466704" offset="51466833" size="986112" md5="5abd96955088ae9e6e69cec42a0c8f3c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rc_1.mp4" start="52452945" offset="52453098" size="996408" md5="ca601ace2c9f6aae2aec9700b74dd84b"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rc.mp4" start="53449506" offset="53449657" size="996408" md5="b4660073271bfd79c2302afb4f8c7510"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/ucrtbase.dll" start="54446065" offset="54446195" size="1123944" md5="6a44a2235d33b3f154fc50dc72e8ea61"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/ucrtbase.dll" start="55570139" offset="55570273" size="1123944" md5="6a44a2235d33b3f154fc50dc72e8ea61"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/tbbmalloc.pdb" start="56694217" offset="56694348" size="1126400" md5="023fb38615b34752c0c486c5d580ad9a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/tbbmalloc.pdb" start="57820748" offset="57820883" size="1126400" md5="023fb38615b34752c0c486c5d580ad9a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll" start="58947283" offset="58947435" size="1126400" md5="f9b49a5e3352a5e17b8411b7f1c36050"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/chrome_200_percent.pak" start="60073835" offset="60074005" size="1358791" md5="f8890823d5b487261efba17bd63ae903"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/SphereVideo-Emoji.mp4" start="61432796" offset="61432935" size="1384087" md5="4d556924a0398857ecd58cf549171f53"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/wmc.dll" start="62817022" offset="62817147" size="1443840" md5="39a339679058e795f733295e860d6837"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video03.mp4" start="64260987" offset="64261128" size="1473039" md5="738e4d0d94ea2bd1a5a094f006074436"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Login2K.mp4" start="65734167" offset="65734303" size="1490080" md5="72cee7ff55a97525d1faa9b6accf6801"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot07.mp4" start="67224383" offset="67224538" size="1533885" md5="a84c01acf9ca70c4d1f51a4342ace21e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot11.mp4" start="68758423" offset="68758578" size="1612196" md5="7e79b1318a4d3072b0f64bf5f372746d"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot03.mp4" start="70370774" offset="70370929" size="1668479" md5="879d766eb79c3d609374d6ffc73b647c"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll" start="72039408" offset="72039571" size="1714176" md5="ce94029c20227191bf97f6d719b651c5"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot04.mp4" start="73753747" offset="73753902" size="1776769" md5="efd62001f32faf2753176fe8a4fde968"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot14.mp4" start="75530671" offset="75530826" size="1779244" md5="58da98fabf3902986270ad47f40db500"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/AkSoundEngineDLL.dll" start="77310070" offset="77310240" size="1807680" md5="2aff1dd8d2d946b089de7073b72b3a2d"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll" start="79117920" offset="79118099" size="1865216" md5="00d9315521c86a0c2bb6e8c21c4610e7"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot19.mp4" start="80983315" offset="80983470" size="1880052" md5="8f0556eec8c5493c0091c830668eccee"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot17.mp4" start="82863522" offset="82863677" size="1978534" md5="c18f05f96d25a5a498cc888a2f25d2f0"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll" start="84842211" offset="84842357" size="2221984" md5="f97b15a663eb59ba6a9fc766e703c103"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P0.mp4" start="87064341" offset="87064492" size="2488407" md5="c5575321f3687674cd44bb3422a1d6f2"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll" start="89552899" offset="89553054" size="2536368" md5="a2c1cdfb561609d7b61d6a04c10579a6"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/Auro.dll" start="92089422" offset="92089580" size="2568000" md5="149fc65401d39ea575bd9f49317dece8"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P1.mp4" start="94657580" offset="94657731" size="2575886" md5="24281cd21f7eb47573e6de35a597b5ee"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot05.mp4" start="97233617" offset="97233772" size="2675930" md5="8673d7a6368a64797a7319c5a15a427e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot16.mp4" start="99909702" offset="99909857" size="2688114" md5="00bc787092e97dbbd41be60e457ae881"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/swiftshader/libGLESv2.dll" start="102597971" offset="102598144" size="2745856" md5="acc98a721d54c98614a8b7361276adff"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P4.mp4" start="105344000" offset="105344151" size="2770947" md5="1722e95825060de6493ae8d6bd996ca2"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/CrashCapture.exe" start="108115098" offset="108115232" size="2821160" md5="3a67f9795deec68c924af434d93edd13"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P5.mp4" start="110936392" offset="110936543" size="2827792" md5="5963be4cbd86e6ee7cb1cc297a628557"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/tbb.pdb" start="113764335" offset="113764460" size="3010560" md5="eb32c96fc2d837a79bdf8987841785ac"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/tbb.pdb" start="116775020" offset="116775149" size="3010560" md5="eb32c96fc2d837a79bdf8987841785ac"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_01.mp4" start="119785709" offset="119785860" size="3014195" md5="854f3e7ba845892af3886d74f0733f8e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P2.mp4" start="122800055" offset="122800206" size="3139268" md5="178867a498f40185496010dc80483185"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P3.mp4" start="125939474" offset="125939625" size="3251890" md5="69b0132c80272a7aeb9e7049f1cf4a7f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Plugins/Wwise/ThirdParty/x64_vc170/Release/bin/gmesdk.dll" start="129191515" offset="129191675" size="3881472" md5="600d3c3265bd4e2baf3d031d01584ede"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Sequence/HM_cang01_SD11_2D/SC11_2d.mp4" start="133073147" offset="133073303" size="4012670" md5="760e9ab8e033a9bda2f77d22175c7b89"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot08.mp4" start="137085973" offset="137086128" size="4090233" md5="ea65562a5fcd22f373433b18aff5ebf4"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll" start="141176361" offset="141176517" size="4346120" md5="222d020bd33c90170a8296adc1b7036a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot01.mp4" start="145522637" offset="145522792" size="4622389" md5="bb8d66a1517f384f3d8a274c22a75488"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/CrashSDK.dll" start="150145181" offset="150145311" size="4652072" md5="df9e4f1b4138214b7fe5a84301c46912"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/EpicWebHelper.exe" start="154797383" offset="154797522" size="4673024" md5="24a922bc6e3097f244086575308c6a8a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Sequence/SC16_FX_v01.mp4" start="159470546" offset="159470688" size="5264185" md5="3bb09426c543bac76594bc077c040735"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Content/SlateDebug/Fonts/LastResort.ttf" start="164734873" offset="164735019" size="5395052" md5="89454f173319872a5fa975b26d028f9d"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/D3D12/D3D12Core.dll" start="170130071" offset="170130208" size="5908408" md5="f2ba8763a1ef9857c4d4b7cab5631edb"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/CrashClientReporter.exe" start="176038616" offset="176038757" size="5975592" md5="e761e1e6395e391e5fe8126c92a63e7b"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/PatcherSDK_x64.dll" start="182014349" offset="182014485" size="6389800" md5="993763db565d56f06294077ef2da91a5"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll" start="188404285" offset="188404436" size="6795776" md5="e766d6ab0036471af1e606fd77665291"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rb.mp4" start="195200212" offset="195200363" size="7115637" md5="ded7073f04bf3d601a53acdddb68cfc4"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/resources.pak" start="202316000" offset="202316161" size="7285408" md5="b6252587a16744802844fa4e1e5752a1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot06.mp4" start="209601569" offset="209601724" size="7516225" md5="b892cd9f88872f7581e019b45f89cd18"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/MintUtralSkill.mp4" start="217117949" offset="217118098" size="7638722" md5="ac768b7a1ad66c675a888c47ae1b1e59"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot13.mp4" start="224756820" offset="224756975" size="8133826" md5="4ff334bbc8c08ea0fd83ba979fad95b3"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/nvngx_dlssg.dll" start="232890801" offset="232890983" size="9477688" md5="69e9f9dc32d0aef4e7c986e2339a0e52"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/D3D12/d3d12SDKLayers.dll" start="242368671" offset="242368813" size="9525272" md5="d372bc0d8c0177903caa4551cf916631"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SagiriUltraSkill.usm" start="251894085" offset="251894236" size="10038560" md5="d00a354f14f2754f815450652903dd33"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FemaleUltraSkill.mp4" start="261932796" offset="261932947" size="10167681" md5="4be56c21575a56dbc62d69be6b90c02c"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/icudtl.dat" start="272100628" offset="272100776" size="10413488" md5="80a7528515595d8b0bf99a477a7eff0d"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/icudtl.dat" start="282514264" offset="282514422" size="10413488" md5="80a7528515595d8b0bf99a477a7eff0d"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot10.mp4" start="292927910" offset="292928065" size="10685026" md5="fb83ce7f3d799ab348089ba853b61cf4"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/LacrimosaUltraSkill.mp4" start="303613091" offset="303613245" size="10999418" md5="2e30153e5cfe66829d80c99e95ccc190"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/NanallyUltraSkill.mp4" start="314612663" offset="314612815" size="11041250" md5="e9a94761414e036870d0d202f5f553dc"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot12.mp4" start="325654065" offset="325654220" size="11044465" md5="7e51e4b738a1bb6d1186ff42c25562a8"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot15.mp4" start="336698685" offset="336698840" size="11358654" md5="a6b8dade2dce3815ddc6c853269de67c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FemaleUltraSkill.usm" start="348057494" offset="348057645" size="11567424" md5="a35b10ed64cb5f7be75e27b1b1e33032"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/DialogueSequence/FilmOrbit_sagiri_q110073.mp4" start="359625069" offset="359625232" size="11844315" md5="1f0044167d663b903c7a0720d50b9fb0"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SagiriUltraSkill.mp4" start="371469547" offset="371469698" size="11941005" md5="c4a7b31f55f32373f31d1be19f481a4a"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak" start="383410703" offset="383410871" size="12051651" md5="7d2d134aead21d03ae9e6f95694a9db6"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SkiaUtralSkill.mp4" start="395462522" offset="395462671" size="12132576" md5="6d8f47a55b865dc9fe5fd6c1c57432dc"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/MintUltralSkill.usm" start="407595247" offset="407595397" size="12360160" md5="52d4f454ae97ef156aa3caae4cfd7610"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/nvngx_deepdvc.dll" start="419955557" offset="419955741" size="12512824" md5="c379e4858f30a398564428ea3cc52bd4"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FadiaUltraSkill.mp4" start="432468565" offset="432468715" size="13100099" md5="442ccfa3f3682c32aeeffdfc192fd4ba"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/H264.usm" start="445568814" offset="445568940" size="13390368" md5="4cc1eb43791530f354d04c10136bc420"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot18.mp4" start="458959308" offset="458959463" size="13438402" md5="df29336a59cea5ff59dc57b407c9ecd5"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/AdlerUltraSkill.mp4" start="472397865" offset="472398015" size="13531845" md5="527b95adc61f9175ff7424db355e4d3e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video02.mp4" start="485929860" offset="485930001" size="17259157" md5="5861170f9e3a4ff3a54bf9aad49fe6ac"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Bigworld1/bigworldvido0.mp4" start="503189158" offset="503189303" size="17505534" md5="b1ae79e99e268c9b8a6d47035ecfe798"/>
+		</Pak>
+		<Pak md5="a1a532acb32f5ebcbca4fa7e45108ce8" filesize="418148633">
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Re.mp4" start="1804" offset="1955" size="17821638" md5="58958039d0033f0b90e7d5568bbe78dd"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video01.mp4" start="17823593" offset="17823734" size="18727890" md5="e5abb774f8e4a02e92f87a43d774909a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot09.mp4" start="36551624" offset="36551779" size="18940342" md5="8f08f2f3ef89c9fe0f7646f29ae50e72"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rd.mp4" start="55492121" offset="55492272" size="24405517" md5="bbf5480bf4bd37e4de538ca3dca1bfc9"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/CrashReportClient.exe" start="79897789" offset="79897932" size="25724928" md5="890cb26374f2022d55d72f0813f715f8"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_temp.mp4" start="105622860" offset="105623002" size="26151236" md5="1a62712ae34cb1fb0d85e2f096142874"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C02.mp4" start="131774238" offset="131774376" size="42600789" md5="53d8fbe1007cb9b08f1ffbf18149f2fd"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Bigworld1/VideoVesta.mp4" start="174375165" offset="174375307" size="45953388" md5="f0c707999d0299fd10c28e258696a5cf"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C01.mp4" start="220328695" offset="220328833" size="46249435" md5="b7db2e115dbb6589d1e5b836286f083c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/OpenImageDenoise.dll" start="266578268" offset="266578406" size="49771920" md5="4b7ea8d37d71c64b73bab999411aac18"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe" start="316350326" offset="316350474" size="50521128" md5="7c6d890841def8978349f37f8af77242"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/DLSS/Binaries/ThirdParty/Win64/nvngx_dlss.dll" start="366871602" offset="366871777" size="51276856" md5="12627ab9ee39858b6a28039a32d1b7c2"/>
+		</Pak>
+	</Package>
+</ResList>
