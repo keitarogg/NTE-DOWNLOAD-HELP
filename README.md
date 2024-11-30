@@ -1,10 +1,6 @@
 ## Neverness To Everness Custom Launcher For Development Builds
 
-[1.0.1 Best For Offline](https://yangxining20220818-test.oss-cn-beijing.aliyuncs.com/Internal/keitaro-gg/Launcher/KGGNeverness_To_Everness_1_0_1_dev.7z?OSSAccessKeyId=LTAI5tBd76UrtGyfCvYJYXeF&Expires=1733503636&Signature=HLiUeZage4WSzWIJOvg6xtnCVmA%3D)
-
-[1.0.12 Newest](https://yangxining20220818-test.oss-cn-beijing.aliyuncs.com/Internal/keitaro-gg/Launcher/KGGNeverness_To_Everness_1_0_12_dev.7z?OSSAccessKeyId=LTAI5tBd76UrtGyfCvYJYXeF&Expires=1733503611&Signature=T%2Bqc%2FMssYlGs7StbJX%2Bl47149N4%3D)
-
-[Latest Non Dev For Dataminers](http://yangxining20220818-test.oss-cn-beijing.aliyuncs.com/Internal/keitaro-gg/Launcher/KGG_Neverness_To%20Everness_Launcher_No_Phone_Req.7z?OSSAccessKeyId=LTAI5tBd76UrtGyfCvYJYXeF&Expires=1735586518&Signature=W%2Bup2vptzqYFd%2F4JNIzGEwiHKzU%3D)
+TODO
 
 ## How To
 
