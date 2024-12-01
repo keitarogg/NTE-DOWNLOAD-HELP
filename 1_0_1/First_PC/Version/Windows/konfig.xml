@@ -21,7 +21,7 @@
 			<d name="ec95b2a75117530c2e4ba7fa19b9a517_08bfb842b02b"/>
 			<d name="02849ff314cb7b420a05841e76557f5b_58112293060d"/>
 		</Devices>
-		<Compressed>1</Compressed>
-		<Encrypt>1</Encrypt>
+		<Compressed>0</Compressed>
+		<Encrypt>0</Encrypt>
 	</Extra>
 </config>
