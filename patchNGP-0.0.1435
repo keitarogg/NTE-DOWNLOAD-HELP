@@ -1,8 +1,8 @@
 {
   "Common": {
-    "main": "/*0.0.1435*/\r\nlet ngpTxt=_mds_[\"ngp/ngpTxt.ts\"].exports.default,ngpMSettingData=_mds_[\"ngp/base/ngpMSettingData.ts\"].exports.default,fsUtils=_mds_[\"core/utils/fsUtils.ts\"].exports.default,logUtils=_mds_[\"core/utils/logUtils.ts\"].exports.default,mainWin=_mds_[\"mainWin.ts\"].exports.default,ShowMsgAction=_mds_[\"core/ShowMsgArgs.ts\"].exports.ShowMsgAction,ngpMData=_mds_[\"ngp/base/ngpMData.ts\"].exports.default,path=require(\"path\");async function clearDir(){let t=ngpMSettingData.homeOrInstallFullPath();(t=t||path.join(ngpMData.getDefaultInstallPath(),ngpMData.gameDirName))&&await fsUtils.exists(t)&&(logUtils.print(\"start clear dir:\",t),fsUtils.removeDir(t).then(t=>{logUtils.print(\"clear dir:\",t),t&&(ngpMSettingData.saveHomePath(\"\"),ngpMSettingData.saveInstallPath(\"\"))}))}ngpTxt.ui_basicClientLogInfo=\"æ¸¸æˆæ—¥å¿—\",ngpTxt.ui_computerInvalidSSD=\"æ¸¸æˆå®‰è£…ç£ç›˜ä¸ç¬¦åˆè¦æ±‚ï¼šéžå›ºæ€ç¡¬ç›˜ï¼ˆSSDï¼‰\",ngpTxt.ui_computerValidSSD=\"æ¸¸æˆå®‰è£…ç£ç›˜ç¬¦åˆè¦æ±‚: å›ºæ€ç¡¬ç›˜ï¼ˆSSDï¼‰\",clearDir().catch(),mainWin.showMessageBox(\"æœ¬æ¬¡æµ‹è¯•å·²ç»“æŸï¼ŒæœŸå¾…ä¸‹æ¬¡ä¸Žæ‚¨ç›¸é‡ï¼\",void 0,void 0,!1,ShowMsgAction.CloseNgp);",
+    "main": "",
     "mainInit": "",
-    "renderer": "/*0.0.1435*/\r\nlet ngpTxt=_mds_[\"ngp/ngpTxt.ts\"].exports.default,viewUtils=_mds_[\"ngp/utils/viewUtils.ts\"].exports.default,eventBus=_mds_[\"core/lib/eventBus.ts\"].exports.default,eventBusEvent=_mds_[\"ngp/eventBusEvent.ts\"].exports.default;ngpTxt.ui_basicClientLogInfo=\"æ¸¸æˆæ—¥å¿—\",ngpTxt.ui_computerInvalidSSD=\"æ¸¸æˆå®‰è£…ç£ç›˜ä¸ç¬¦åˆè¦æ±‚ï¼šéžå›ºæ€ç¡¬ç›˜ï¼ˆSSDï¼‰\",ngpTxt.ui_computerValidSSD=\"æ¸¸æˆå®‰è£…ç£ç›˜ç¬¦åˆè¦æ±‚: å›ºæ€ç¡¬ç›˜ï¼ˆSSDï¼‰\",viewUtils.isShutDown=()=>!0,viewUtils.getShutdownAllView=()=>\"<br/>\",eventBus.publish(eventBusEvent.forceUpdateUI);",
+    "renderer": "",
     "rendererInit": ""
   }
 }
