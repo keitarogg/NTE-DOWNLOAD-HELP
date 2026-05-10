@@ -1,0 +1,28 @@
+{
+  "pc": {
+    "patcher": {
+      "ver": "2761816",
+      "hash": "7c0dcf89350fad8e7f3bb8e2ccd537c1",
+      "url": "https://l50.gdl.netease.com/pc_ngp/patcher/"
+    },
+    "pkg": {
+      "base": "2638834",
+      "patch": "2758041",
+      "url": "https://l50.gdl.netease.com/pc_ngp/app/CBT2/publish/",
+      "artifact": "2665795",
+      "size": 48009131,
+      "showVersion": "2758041.2665795",
+      "cmd": [
+      ],
+      "delayTime": 0,
+      "quickPatch": [],
+      "grayPatch": [],
+      "pingHosts": [
+        "l50.update.netease.com",
+        "l50.gdl.netease.com"
+      ],
+      "uiInfo": {
+      }
+    }
+  }
+}
